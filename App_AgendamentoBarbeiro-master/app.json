@@ -1,0 +1,12 @@
+{
+  "name": "App_AgendamentoBarbeiro",
+  "displayName": "App_AgendamentoBarbeiro",
+  "expo": {
+    "name": "App_AgendamentoBarbeiro",
+    "slug": "App_AgendamentoBarbeiro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
